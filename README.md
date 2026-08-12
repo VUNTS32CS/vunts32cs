@@ -8,12 +8,13 @@ I know what you're thinking—*it's not actually as bad as you might think*. ***
 - more Linux distributions day by day *(I've tested over a hundred by now)*. I'm trying as hard as I can to adapt to new changes and master them.
 > also, **Python** & **Lua** are definitely interesting.
 
-### I have:
+### I've:
 - made several bug reports for Odyssey Linux,
 - fixed a bricked GM 21 Plus smartphone with *SP Flash Tool* & broken two smartphones countless times with the famous *"NV data is corrupted"* error of Xiaomi phones,
   - tested tens of Custom ROMs & GSIs over and over again,
 - heavily *overclocked* + *undervolted* my CPU + RAM; general experience with the BIOS *(particularly UEFI BIOS)* & knowledge about motherboard components
 - self-hosted an OpenList *(an extensive file sharing service, fork of AList)* + Minecraft Java server on my phone with Termux and had great success
+- tested many Custom Windowses: *KernelOS, SaphOS (SapphireOS), FS-OS X & variants, Tiny10, ggOS, Windows X-Lite...*
 
 <!--
 **VUNTS32CS/vunts32cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
