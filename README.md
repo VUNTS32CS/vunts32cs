@@ -1,4 +1,6 @@
-## Hi there 👋
+# greetings, fellow reader.
+## - I'm currently working on my game here at the Roblox platform, named *"the rake:retro!!"*; a game designed to deliver you the feelings of what The Rake by RVVZ would weel in the ~2009 era of ROBLOX.
+
 
 <!--
 **VUNTS32CS/vunts32cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
