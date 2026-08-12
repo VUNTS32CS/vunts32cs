@@ -1,6 +1,7 @@
 ## greetings, fellow reader.
 ### I'm currently working on: 
 - my game here in the Roblox platform, named *"the rake: retro!!"*; a game designed to deliver you the feelings of what The Rake by RVVZ would weel in the ~2009 era of ROBLOX. after seeing how rejected AI apparently was when it came to making games solely with it, I wanted to prove that thought wrong - so I made *this* game which only has scripts that are made with AI assistants & agents - or scripts taken straight up from the Roblox Toolbox that are modified with AI.
+I know what you're thinking. *it's not actually as bad as you might think*. ***it's not bad, actually.***
 
 ### I'm currently learning:
 - more Linux distributions day by day *(I've tested over a hundred by now)*. I'm trying as hard as I can to adapt to new changes and master them.
