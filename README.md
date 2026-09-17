@@ -12,9 +12,10 @@ I know what you're thinking—*it's not as bad as it may sound*. ***it's not bad
 - made several bug reports for Odyssey Linux,
 - fixed a bricked GM 21 Plus smartphone with *SP Flash Tool* & broken two smartphones countless times with the famous *"NV data is corrupted"* error of Xiaomi phones,
   - tested tens of Custom ROMs & GSIs over and over again,
+- done IMEI repair on the POCO X3 GT, Redmi Note 8 Pro, GM 21 Plus and Xiaomi 11T Pro,
 - heavily *overclocked* + *undervolted* my CPU + RAM; general experience with the BIOS *(particularly UEFI BIOS)* & knowledge about motherboard components
 - self-hosted an OpenList *(an extensive file sharing service, fork of AList)* + Minecraft Java server on my phone with Termux and had great success
-- tested many Custom Windowses: *KernelOS, SaphOS (SapphireOS), FS-OS X & variants, Tiny10, ggOS, Windows X-Lite...*
+- tested many Custom Windowses: *KernelOS, SaphOS (SapphireOS), FS-OS X & variants, Tiny10, ggOS, Windows X-Lite*...
 
 –––––––
 
